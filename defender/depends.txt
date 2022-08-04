@@ -1,0 +1,6 @@
+mobs
+default
+tnt
+rangedweapons?
+fishing?
+hunger_ng?
